@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\пр3\пр3\bin\Debug\net6.0\пр3.exe
+C:\Users\ASUS\source\repos\пр3\пр3\bin\Debug\net6.0\пр3.deps.json
+C:\Users\ASUS\source\repos\пр3\пр3\bin\Debug\net6.0\пр3.runtimeconfig.json
+C:\Users\ASUS\source\repos\пр3\пр3\bin\Debug\net6.0\пр3.dll
+C:\Users\ASUS\source\repos\пр3\пр3\bin\Debug\net6.0\пр3.pdb
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\пр3.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\пр3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\пр3.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\пр3.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\пр3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\пр3.dll
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\refint\пр3.dll
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\пр3.pdb
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\пр3.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\пр3\пр3\obj\Debug\net6.0\ref\пр3.dll
